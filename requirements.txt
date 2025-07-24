@@ -1,4 +1,6 @@
-Flask
-pandas
+flask
 numpy
 scikit-learn
+pytest
+flake8
+black
