@@ -4,3 +4,4 @@ scikit-learn
 pytest
 flake8
 black
+pandas
