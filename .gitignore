@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-*.pkl
 salary_data.csv
 venv/
 .env
